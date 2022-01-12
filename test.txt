@@ -1,4 +1,7 @@
 One
 two
+<<<<<<< HEAD
 read?
 Go!
+=======
+>>>>>>> 925b9e6d65c7fd206492b2ada37ef5362ba4d263
